@@ -103,7 +103,7 @@ Contributions are welcome! If you have ideas for new features or improvements:
 🤞🏻‍💻 Author
 --------------
 
-Your Name
+Varshan AVR
 
 📜 License
 ----------
