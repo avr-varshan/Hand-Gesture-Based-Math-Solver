@@ -83,11 +83,7 @@ A real-time application that combines computer vision, hand gesture recognition,
     
 4.  streamlit run main.py
     
-
-📄 Project Structure
---------------------
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Gesture-Based-Math-Solver/  ├── main.py               # Main application logic  ├── gesture_utils.py      # Gesture recognition and canvas handling  ├── solver.py             # OCR and math expression solving  ├── ai_solver.py          # AI-powered math expression solving  ├── requirements.txt      # Project dependencies  ├── README.md             # Project documentation   `
+ `
 
 🤝 Contributing
 ---------------
