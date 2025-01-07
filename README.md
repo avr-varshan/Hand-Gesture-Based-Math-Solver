@@ -3,6 +3,9 @@
 
 A real-time application that combines computer vision, hand gesture recognition, and optical character recognition (OCR) to **recognize handwritten mathematical expressions** and solve them effortlessly. Built using **Python, OpenCV, Mediapipe, PaddleOCR, and Streamlit**, this project offers an interactive way to solve mathematical expressions through gestures. It includes an **AI-powered mode** for solving complex expressions with the help of Gemini AI.
 
+![Demo Image 1](images/demo_image1.jpeg)
+![Demo Image 2](images/demo_image2.jpeg)
+
 
 🚀 Features
 -----------
